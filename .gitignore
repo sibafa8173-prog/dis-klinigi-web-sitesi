@@ -1,0 +1,9 @@
+# İşletim sistemi ve editör dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Ortam değişkenleri ve gizli anahtarlar
+.env
+.env.local

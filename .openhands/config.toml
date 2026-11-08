@@ -1,0 +1,8 @@
+﻿[core]
+workspace_base = "/opt/workspace_base"
+file_store = "local"
+
+[llm]
+model = "deepseek-ai/DeepSeek-V4 pro"
+api_key = "sk-di-tp46RqEQZAJ1yVY9GH20SOHgJRSS70id"
+base_url = "https://api.deepinfra.com/v1/openai"
